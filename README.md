@@ -17,7 +17,13 @@ I specialize in leading cloud modernization initiatives, transforming legacy on-
 
 ---
 
-## 🚀 Portfolio Snapshot
+## 🚀 Portfolio Snapshot & Core Focus Areas
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📊 Portfolio Snapshot
 
 | Area | Impact |
 |---|---:|
@@ -29,9 +35,10 @@ I specialize in leading cloud modernization initiatives, transforming legacy on-
 | Disaster Recovery RPO | **15 minutes** |
 | Team mentoring and collaboration | **10+ members** |
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🧭 Core Focus Areas
+### 🧭 Core Focus Areas
 
 - ☁️ **Cloud Architecture & Design**
 - 🚀 **DevOps & DevSecOps Transformation**
@@ -45,5 +52,9 @@ I specialize in leading cloud modernization initiatives, transforming legacy on-
 - 💰 **FinOps & Cloud Cost Optimization**
 - 🌍 **Disaster Recovery & High Availability**
 - 🤝 **Team Leadership & Stakeholder Management**
+
+</td>
+  </tr>
+</table>
 
 ---
